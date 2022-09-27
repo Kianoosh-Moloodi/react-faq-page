@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-faq-page/static/css/main.14021f5f.css",
+    "main.js": "/react-faq-page/static/js/main.80990189.js",
+    "index.html": "/react-faq-page/index.html",
+    "static/media/up.svg": "/react-faq-page/static/media/up.02c00b70f2553feeacff.svg",
+    "main.14021f5f.css.map": "/react-faq-page/static/css/main.14021f5f.css.map",
+    "main.80990189.js.map": "/react-faq-page/static/js/main.80990189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14021f5f.css",
+    "static/js/main.80990189.js"
+  ]
+}
